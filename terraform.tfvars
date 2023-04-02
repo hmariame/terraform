@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-00c39f71452c08778"
+keypair       = "kyme"
+instance_type = "t2.micro"
+name          = "dev-server"
